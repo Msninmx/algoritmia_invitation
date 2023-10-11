@@ -1,7 +1,8 @@
 # Junta Algoritmia
 Los invitamos cordialmente a nuestra reunión este 14 de octubre. Queremos aprovechar esta oportunidad para hacer Mock Interviews a los estudiantes de tercero y arriba, y que los de primero puedan ver el proceso completo.
 ### Built With:
-- 
+- ![Love Shield](heart_banner.svg)
+- ![Pizza Shield](pizza_shield.svg)
 ## Getting Started
 ### Prerequisites
 ```
