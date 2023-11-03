@@ -1,13 +1,10 @@
 # Junta Algoritmia
-Los invitamos cordialmente a nuestra reunión este 14 de octubre. Queremos aprovechar esta oportunidad para hacer Mock Interviews a los estudiantes de tercero y arriba, y que los de primero puedan ver el proceso completo.
+Los invitamos cordialmente a nuestra reunión este 4 de noviembre. Hablaremos acerca de los resultados de la encuesta, además de resolver problemas.
 ### Built With:
 - ![Love Shield](heart_banner.svg)
 - ![Pizza Shield](pizza_shield.svg)
 ## Getting Started
 ### Prerequisites
 ```
-- Registrarse en el questionario
-- Tener tu CV
-- Conocimientos básicos de algoritmos y estructuras de datos
-- Ganas de aprender y recibir retroalimentación
+- Ganas de aprender
 ```
